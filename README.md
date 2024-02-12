@@ -11,7 +11,7 @@ After you are done calculating your GPA, you can also download your results as .
 
 ## How to run
 - Install JRE 1.8 or above
-- Download the released jar file from release directory (releases/1.0/gpacalculator-1.0.jar)
+- Download the released jar file from release directory ([releases/1.0/gpacalculator-1.0.jar](https://github.com/pranavsmoorthy/gpacalculator/releases/tag/1.0))
 - Run the program with following command:
 ```
 java -jar gpacalculator-1.0.jar
