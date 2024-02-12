@@ -7,9 +7,6 @@ The program can calculate GPAs from grades that are represented by both letters 
 
 After you are done calculating your GPA, you can also download your results as .html files. The downloaded HTML files can be opened in a default browser. If they are not saved as HTML files, you convert them in your local file browser.
 
-Should you want to view the downloaded HTML files as a PDF, you can use the link below.
-https://html2pdf.com/
-
 ## Additional sources used
 - Coded in Java
 - JUnit for unit test cases
