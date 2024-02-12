@@ -1,6 +1,7 @@
 # GPA Calculator
 
 GPA Calculator is a program that has calculates the GPA of a student with the given courses.
+![GPA Calculator](http://url/to/img.png)
 
 ## Functionality
 The program can calculate GPAs from grades that are represented by both letters and numbers. The calculator will also to Honors and AP course weightage into account. 
