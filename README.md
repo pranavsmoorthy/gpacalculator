@@ -7,6 +7,28 @@ The program can calculate GPAs from grades that are represented by both letters 
 
 After you are done calculating your GPA, you can also download your results as .html files. The downloaded HTML files can be opened in a default browser. If they are not saved as HTML files, you convert them in your local file browser.
 
+## How to run
+- Install JRE 1.8 or above
+- Download the released jar file from release directory (releases/1.0/gpacalculator-1.0.jar)
+- Run the program with following command:
+```
+java -jar gpacalculator-1.0.jar
+```
+
+## How to build
+If you want to build and run from source code:
+- Install and configure Maven (https://maven.apache.org/)
+- Download the source code from github
+- Run the following command to compile and package:
+```
+mvn package
+``` 
+- The above command will create the packaged runnable jar (gpacalculator-1.0.jar) file in the directory called "target"
+- Run the program with following command:
+```
+java -jar gpacalculator-1.0.jar
+```
+
 ## Additional sources used
 - Coded in Java
 - JUnit for unit test cases
